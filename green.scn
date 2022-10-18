@@ -21,7 +21,7 @@
       "content": {
         "fog": {
           "fogType": "exp",
-          "args": [[0, 150, 180], 0.01]
+          "args": [[20, 59, 180], 0.01]
         },
         "ssao": {
           "kernelRadius": 16,
@@ -63,6 +63,14 @@
         0
       ],
       "start_url": "./maze.glb"
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "./wall.glb"
     },
     {
       "position": [
